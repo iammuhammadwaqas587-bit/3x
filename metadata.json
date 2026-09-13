@@ -1,0 +1,8 @@
+{
+  "name": "Remix 3XTECH Solution Services",
+  "description": "Enterprise website for 3XTech Ltd (Trading as 3XTECH Solution Services), specializing in Expert Project Management, Responsive Technical Support, Managed Network Services, and Consulting Services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

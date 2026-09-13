@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 140" fill="none" width="100%" height="100%">
+  <defs>
+    <!-- Filter for subtle crisp corporate edge -->
+    <filter id="crispShadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="1" dy="1" stdDeviation="0.8" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <!-- 3X in Vibrant Magenta -->
+  <g filter="url(#crispShadow)">
+    <!-- '3' -->
+    <text x="10" y="88" font-family="'Playfair Display', Georgia, 'Times New Roman', serif" font-weight="900" font-size="86" fill="#C026D3" letter-spacing="-2">3</text>
+    <!-- 'X' -->
+    <text x="64" y="88" font-family="'Playfair Display', Georgia, 'Times New Roman', serif" font-weight="900" font-size="86" fill="#C026D3" letter-spacing="-2">X</text>
+  </g>
+
+  <!-- TECH in Forest Emerald Green -->
+  <g filter="url(#crispShadow)">
+    <text x="142" y="88" font-family="'Playfair Display', Georgia, 'Times New Roman', serif" font-weight="900" font-size="86" fill="#0A6B38" letter-spacing="1">TECH</text>
+  </g>
+
+  <!-- Solution Services Subtitle -->
+  <g>
+    <text x="156" y="124" font-family="'Playfair Display', Georgia, 'Times New Roman', serif" font-weight="700" font-style="normal" font-size="28" fill="#0A6B38" letter-spacing="0.5">Solution Services</text>
+  </g>
+</svg>
